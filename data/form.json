@@ -1,0 +1,16 @@
+[
+    {
+        "Firstname":"Muhammad",
+        "LastName":"Hamza Ali",
+        "email":"Hamza@gmail.com",
+        "Gender":"Male",
+        "MobileNo":"03001234567",
+        "BirthMonth":"December",
+        "BirthDate":"05",
+        "BirthYear":"1995",
+        "Subject":"Computer",
+        "Hobies":"Sports",
+        "Picture":"C:/Users/Hamza Ali/Downloads/Demo Upload.txt",
+        "Address":"Okara cantt"
+    }
+]

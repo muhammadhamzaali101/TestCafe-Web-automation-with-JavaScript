@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Dec 06 17:08:38 PKT 2022","Tue Dec 06 17:08:48 PKT 2022","10019","","TESTCAFE ASSIGNMENT","","TESTCAFE ASSIGNMENT","Open and Verify New Window Message","Open and Verify New Window Message",""
+"passed","Tue Dec 06 17:08:12 PKT 2022","Tue Dec 06 17:08:23 PKT 2022","11333","","TESTCAFE ASSIGNMENT","","TESTCAFE ASSIGNMENT","Open New tab and Validate","Open New tab and Validate",""
+"passed","Tue Dec 06 17:08:00 PKT 2022","Tue Dec 06 17:08:33 PKT 2022","33080","","TESTCAFE ASSIGNMENT","","TESTCAFE ASSIGNMENT","Register Form","Register Form",""
+"passed","Tue Dec 06 17:08:28 PKT 2022","Tue Dec 06 17:08:43 PKT 2022","15159","","TESTCAFE ASSIGNMENT","","TESTCAFE ASSIGNMENT","Ope New Window and Navigate","Ope New Window and Navigate",""
+"passed","Tue Dec 06 17:08:45 PKT 2022","Tue Dec 06 17:08:51 PKT 2022","6068","","TESTCAFE ASSIGNMENT","","TESTCAFE ASSIGNMENT","Verify Hover Operation","Verify Hover Operation",""
+"passed","Tue Dec 06 17:08:52 PKT 2022","Tue Dec 06 17:08:58 PKT 2022","6327","","TESTCAFE ASSIGNMENT","","TESTCAFE ASSIGNMENT","Verify Drag and Drop","Verify Drag and Drop",""

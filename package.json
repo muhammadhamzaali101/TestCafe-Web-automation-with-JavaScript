@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "test": "testcafe chrome ./test-specs/DemoQA.specs.js --video Videos -s Screenshots --skip-js-errors --reporter allure",
+        "generateAllure": "allure generate allure/allure-results --clean -o allure/allure-report && allure open allure/allure-report"
+    },
+    "dependencies": {
+        "@ffmpeg-installer/ffmpeg": "^1.1.0",
+        "testcafe": "^2.1.0",
+        "testcafe-reporter-allure": "^1.0.5"
+    }
+}
